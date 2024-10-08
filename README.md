@@ -20,15 +20,8 @@ I welcome collaboration opportunities and can be contacted at [yadavrobin405@gma
 
 ---
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavrobin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yadavrobin&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavrobin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### ✍️ Quote
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+### ✍️ Quote of the Day
+"The best way to predict the future is to invent it." — Alan Kay
 
 ---
 
